@@ -1,0 +1,3 @@
+﻿  Baitap1.cpp
+D:\University\C++\Baitap1\Baitap1\Baitap1.cpp(25,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Baitap1.vcxproj -> D:\University\C++\Baitap1\x64\Debug\Baitap1.exe
